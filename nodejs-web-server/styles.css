@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+button {
+    padding: 10px 20px;
+    width: 25%;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+input {
+    padding: 5px;
+    margin-top: 10px;
+}
+
+select {
+    padding: 5px;
+    margin-bottom: 10px;
+}
